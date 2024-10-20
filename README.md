@@ -1,2 +1,2 @@
-# CODSOFT
-This repository contains programs for my internship program by CODSOFT
+
+This repository contains some of my basic projects.
